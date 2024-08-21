@@ -1,0 +1,17 @@
+﻿  Homework 6.cpp
+C:\Cal state east bay\CS311 Programming language Concepts\Homework 6\Homework 6\BinarySearchTree.hpp(192,28): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Homework%206.cpp')
+  C:\Cal state east bay\CS311 Programming language Concepts\Homework 6\Homework 6\BinarySearchTree.hpp(192,28):
+  the template instantiation context (the oldest one first) is
+  	C:\Cal state east bay\CS311 Programming language Concepts\Homework 6\Homework 6\Homework 6.cpp(38,30):
+  	see reference to class template instantiation 'BinarySearchTree<std::string>' being compiled
+  	C:\Cal state east bay\CS311 Programming language Concepts\Homework 6\Homework 6\BinarySearchTree.hpp(179,2):
+  	while compiling class template member function 'void BinarySearchTree<std::string>::Insert(T)'
+          with
+          [
+              T=std::string
+          ]
+  		C:\Cal state east bay\CS311 Programming language Concepts\Homework 6\Homework 6\Homework 6.cpp(50,20):
+  		see the first reference to 'BinarySearchTree<std::string>::Insert' in 'Lexicon'
+  
+  Homework 6.vcxproj -> C:\Cal state east bay\CS311 Programming language Concepts\Homework 6\x64\Debug\Homework 6.exe

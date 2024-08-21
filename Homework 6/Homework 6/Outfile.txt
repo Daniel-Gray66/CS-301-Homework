@@ -1,0 +1,6 @@
+Number of words: 13
+Number of Unique words: 8
+Number of Unique words with more than 3 characters: 5
+Number of sentences: 1
+Average word length: 4.38462
+Average sentence length: 13 Word.

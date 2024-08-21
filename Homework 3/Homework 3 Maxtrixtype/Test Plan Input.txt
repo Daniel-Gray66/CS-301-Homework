@@ -1,0 +1,9 @@
+Initialzied the fist matrix to be a 2x2 matrix with every nunmber inside begin a 2.
+
+Initialized the second matrix to be a 2x2 matrix with every value being a 3.
+
+Added Matrices one and two and stored the result in matrix 3.
+Subtracted Matrix two and one and stored the result in matrix 3
+Multiplied both matrix one and matrix 2 and stored the result in matrix 3.
+Printed Matrix 3
+Quit,
